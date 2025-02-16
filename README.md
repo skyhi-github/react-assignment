@@ -11,12 +11,15 @@
 📋 `cd react-assignment`
 
 **Step 3**
-📋 `npm install`
+📋 `git checkout assignment1/undo-redo`
 
 **Step 4**
-📋 `npm start`
+📋 `npm install`
 
 **Step 5**
+📋 `npm start`
+
+**Step 6**
 📋 `Visit link display in terminal`
 
 ![localhost_3000_](https://github.com/user-attachments/assets/9c59bba1-733d-4201-97a4-4c5030028dca)
